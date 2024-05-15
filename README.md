@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, ReactJS**
 
-- 👨‍💻 All of my projects are available at [github]([https://gurpreet28.me/](https://github.com/Singhayushraj)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Singhayushraj)
 
 - 📫 How to reach me **sayushraj151@gmail.com**
 
