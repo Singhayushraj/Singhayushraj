@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/ASingh8303" target="blank"><img align="center" src="https://www.technobaboy.com/2023/07/29/twitter-says-goodbye-to-bird-logo-rebrands-as-x-with-new-app-design/" alt="ASingh8303" height="30" width="40" /></a>
+<a href="https://x.com/ASingh8303" target="blank"><img align="center" src="src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ASingh8303" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayush-raj-singh-a8aa2b200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurpreet599" height="30" width="40" /></a>
 
 </p>
