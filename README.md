@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Raj Singh</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on some cool projects
+- 🔭 I’m currently working on some JavaScript projects
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, ReactJS**
 
